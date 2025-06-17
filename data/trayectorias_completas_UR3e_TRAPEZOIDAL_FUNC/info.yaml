@@ -1,0 +1,14 @@
+interpolador: TRAPEZOIDAL_FUNC
+formato: CSV
+trayectorias_generadas: 5000
+puntos_por_trayectoria: 150
+joints:
+- shoulder_pan_joint
+- shoulder_lift_joint
+- elbow_joint
+- wrist_1_joint
+- wrist_2_joint
+- wrist_3_joint
+tipo_muestreo: aleatorio_uniforme
+descripcion: Trayectorias generadas en simulacion para el UR3e, validadas cinematicamente
+  y sin colisiones.

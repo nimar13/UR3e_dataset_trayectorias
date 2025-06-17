@@ -1,0 +1,153 @@
+timestamp,trayectoria,tipo_error,detalle,codigo_safety_mode
+2025-06-04 12:17:30,trayectoria_004.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:17:40,trayectoria_005.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:19:26,trayectoria_008.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:20:24,trayectoria_010.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:21:59,trayectoria_013.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:22:10,trayectoria_014.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:22:20,trayectoria_015.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:22:30,trayectoria_016.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:22:41,trayectoria_017.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:22:51,trayectoria_018.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:23:02,trayectoria_019.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:23:12,trayectoria_020.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:24:09,trayectoria_022.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:24:20,trayectoria_023.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:24:30,trayectoria_024.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:25:14,trayectoria_026.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:29:13,trayectoria_031.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:30:55,trayectoria_033.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:31:56,trayectoria_035.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,3
+2025-06-04 12:32:07,trayectoria_036.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 12:35:15,trayectoria_039.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:35:25,trayectoria_040.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:35:35,trayectoria_041.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:36:52,trayectoria_043.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:37:24,trayectoria_044.csv,SAFETY_STOP,Parada de seguridad durante ejecución: PROTECTIVE_STOP,3
+2025-06-04 12:37:25,trayectoria_044.csv,NO_DESTINATION,Ejecución no alcanzó destino exacto,3
+2025-06-04 12:37:33,trayectoria_045.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:37:36,trayectoria_046.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:37:39,trayectoria_047.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:37:42,trayectoria_048.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:37:45,trayectoria_049.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:37:48,trayectoria_050.csv,HOME_CONTROL_FAILED,No se pudo mover a home antes de empezar la trayectoria,1
+2025-06-04 12:39:42,trayectoria_052.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:39:52,trayectoria_053.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:40:03,trayectoria_054.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:40:13,trayectoria_055.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:40:23,trayectoria_056.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:40:34,trayectoria_057.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:40:44,trayectoria_058.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:41:27,trayectoria_060.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:41:37,trayectoria_061.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:42:37,trayectoria_063.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:43:28,trayectoria_065.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:43:38,trayectoria_066.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:48:45,trayectoria_074.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:48:56,trayectoria_075.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:50:09,trayectoria_077.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:50:20,trayectoria_078.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:51:13,trayectoria_080.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:51:23,trayectoria_081.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:51:33,trayectoria_082.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:51:44,trayectoria_083.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:51:54,trayectoria_084.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:52:05,trayectoria_085.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:54:16,trayectoria_088.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,3
+2025-06-04 12:54:37,trayectoria_089.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 12:56:52,trayectoria_091.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:58:35,trayectoria_094.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:58:46,trayectoria_095.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:58:56,trayectoria_096.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:06,trayectoria_097.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:17,trayectoria_098.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:27,trayectoria_099.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:38,trayectoria_100.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:48,trayectoria_101.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 12:59:58,trayectoria_102.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:00:44,trayectoria_104.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:01:41,trayectoria_106.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:03:15,trayectoria_109.csv,SAFETY_STOP,Parada de seguridad durante ejecución: PROTECTIVE_STOP,3
+2025-06-04 13:03:16,trayectoria_109.csv,NO_DESTINATION,Ejecución no alcanzó destino exacto,3
+2025-06-04 13:03:27,trayectoria_110.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 13:04:20,trayectoria_111.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:05:54,trayectoria_114.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:06:04,trayectoria_115.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:06:14,trayectoria_116.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:06:25,trayectoria_117.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:06:35,trayectoria_118.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:06:45,trayectoria_119.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:08:22,trayectoria_122.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:09:22,trayectoria_124.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:09:32,trayectoria_125.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:10:52,trayectoria_128.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:12:05,trayectoria_130.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,3
+2025-06-04 13:12:16,trayectoria_131.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 13:14:18,trayectoria_132.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:18:12,trayectoria_138.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:18:22,trayectoria_139.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:18:33,trayectoria_140.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:19:25,trayectoria_142.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:20:07,trayectoria_144.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:21:13,trayectoria_146.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:21:23,trayectoria_147.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:21:34,trayectoria_148.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:22:29,trayectoria_150.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:22:39,trayectoria_151.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:22:49,trayectoria_152.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:24:49,trayectoria_155.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:27:41,trayectoria_159.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:28:50,trayectoria_161.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:30:06,trayectoria_163.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:30:16,trayectoria_164.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:30:26,trayectoria_165.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:30:37,trayectoria_166.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:33:54,trayectoria_171.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:35:45,trayectoria_174.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:36:31,trayectoria_176.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:36:41,trayectoria_177.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:36:56,trayectoria_178.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,3
+2025-06-04 13:37:07,trayectoria_179.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 13:38:04,trayectoria_180.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:41:20,trayectoria_184.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:41:31,trayectoria_185.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:41:41,trayectoria_186.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:41:51,trayectoria_187.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:02,trayectoria_188.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:12,trayectoria_189.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:22,trayectoria_190.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:33,trayectoria_191.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:43,trayectoria_192.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:42:54,trayectoria_193.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:43:04,trayectoria_194.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:44:59,trayectoria_197.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:45:44,trayectoria_199.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:47:05,trayectoria_202.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:47:15,trayectoria_203.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:47:26,trayectoria_204.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:49:22,trayectoria_207.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:50:50,trayectoria_210.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:51:57,trayectoria_212.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:52:08,trayectoria_213.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:52:18,trayectoria_214.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:52:28,trayectoria_215.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:52:39,trayectoria_216.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:52:49,trayectoria_217.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:53:00,trayectoria_218.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:53:10,trayectoria_219.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:53:20,trayectoria_220.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:53:31,trayectoria_221.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:54:20,trayectoria_223.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:54:30,trayectoria_224.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:55:27,trayectoria_226.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:55:38,trayectoria_227.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 13:56:39,trayectoria_229.csv,SAFETY_STOP,Parada de seguridad durante ejecución: PROTECTIVE_STOP,3
+2025-06-04 13:56:40,trayectoria_229.csv,NO_DESTINATION,Ejecución no alcanzó destino exacto,3
+2025-06-04 13:56:51,trayectoria_230.csv,SAFETY_MODE_NOT_NORMAL_SOSTENIDO,"Robot en modo de seguridad inestable o sin recuperarse (último safety_mode_code=3, label=PROTECTIVE_STOP)",3
+2025-06-04 14:00:20,trayectoria_234.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:01:23,trayectoria_236.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:01:34,trayectoria_237.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:01:44,trayectoria_238.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:03:28,trayectoria_241.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:03:38,trayectoria_242.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
+2025-06-04 14:05:46,trayectoria_245.csv,NO_MOTION_PLAN_TO_FIRST_POINT,No se pudo planificar/executar movimiento al primer punto,1
