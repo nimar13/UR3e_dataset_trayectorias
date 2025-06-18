@@ -61,7 +61,7 @@ Este repositorio está licenciado bajo los términos de la licencia MIT. Puedes 
 
 ## Autor
 
-**Marcos Sainz San Miguel**  
+**Marcos Sainz**  
 Universidad de Deusto – Ingeniería Robótica (2025)
 
 ---
