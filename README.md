@@ -10,14 +10,14 @@ Este repositorio incluye 500 trayectorias simuladas por interpolador. El dataset
 
 ## Estructura del repositorio
 
-data/ # Trayectorias simuladas 
-trayectorias_ejecutadas/ # Resultados reales tras ejecución física
-trayectorias_ejecutadas_filtradas/ # Resultados ejecutados y filtrados digitalmente
-scripts/ # Scripts para generar, ejecutar y filtrar trayectorias
-logs/ # Registro de errores e incidencias
-docs/ # Diagramas explicativos del pipeline
-LICENSE # Licencia MIT
-README.md # Este documento
+-data/ # Trayectorias simuladas 
+-trayectorias_ejecutadas/ # Resultados reales tras ejecución física
+-trayectorias_ejecutadas_filtradas/ # Resultados ejecutados y filtrados digitalmente
+-scripts/ # Scripts para generar, ejecutar y filtrar trayectorias
+-logs/ # Registro de errores e incidencias
+-docs/ # Diagramas explicativos del pipeline
+-LICENSE # Licencia MIT
+-README.md # Este documento
 
 ---
 
