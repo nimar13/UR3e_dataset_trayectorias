@@ -4,7 +4,7 @@ Este repositorio contiene un conjunto de trayectorias generadas, ejecutadas y va
 
 El dataset está organizado para facilitar su reutilización en tareas de simulación, planificación, interpolación y aprendizaje automático en robótica colaborativa.
 
-Este repositorio incluye 500 trayectorias simuladas por interpolador. El dataset completo de 5.000 trayectorias por interpolador (25.000 en total) está disponible bajo petición o mediante enlace externo.
+Este repositorio incluye 500 trayectorias simuladas por interpolador. El dataset completo dispone de más taryectorias, está disponible bajo petición o mediante enlace externo.
 
 ---
 
@@ -25,9 +25,13 @@ Este repositorio incluye 500 trayectorias simuladas por interpolador. El dataset
 
 - Trayectorias generadas con 5 métodos de interpolación:  
   `JTRAJ`, `QUINTIC`, `QUINTIC_FUNC`, `TRAPEZOIDAL`, `TRAPEZOIDAL_FUNC`
-- Cada trayectoria contiene:
-  - Posiciones articulares (`q1` a `q6`)
-  - Posición y orientación del end-effector (`x, y, z`, `roll, pitch, yaw`)
+- Cada trayectoria simulada contiene:
+  - Posiciones articulares (`q1` a `q6`) (rad)
+  - Posición y orientación del end-effector (`x, y, z`, `roll, pitch, yaw`) (m y rad respectivamente)
+- Cada trayectoria ejecutada contiene:
+  - Posiciones articulares (`q1` a `q6`) (rad)
+  - Velocidades articulares (rad/s)
+  - Esfuerzos (Nm)
 - Archivos `info.yaml` en cada subcarpeta describen el formato y metadatos.
 - Trayectorias reales grabadas a ~500 Hz desde `/joint_states`.
 - Datos filtrados digitalmente (Butterworth 25 Hz, orden 4) para eliminar ruido.
